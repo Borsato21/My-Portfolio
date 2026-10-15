@@ -1,40 +1,92 @@
-# Portfólio — Vítor Borsato
+# 🚀 Meu Portfólio — Vítor Borsato
 
-Portfólio pessoal estático criado para publicação no GitHub Pages.
+Bem-vindo ao repositório do meu portfólio pessoal! Este projeto foi desenvolvido para apresentar minha trajetória, meus conhecimentos em tecnologia, meus projetos e minha evolução como desenvolvedor.
 
-## Estrutura
+🌐 **Acesse meu portfólio:** [borsato21.github.io/My-Portfolio](https://borsato21.github.io/My-Portfolio/)
 
-- `index.html` — conteúdo e estrutura da página
-- `style.css` — layout, responsividade, tema claro/escuro e animações
-- `script.js` — menu mobile, tema e animações de entrada
-- `.nojekyll` — evita processamento desnecessário do Jekyll no GitHub Pages
+## 📌 Sobre o projeto
 
-## Como publicar no GitHub Pages
+O portfólio foi criado com o objetivo de reunir minhas principais informações profissionais e acadêmicas em um único lugar, facilitando o acesso ao meu currículo, aos meus projetos e às minhas habilidades.
 
-### Opção 1 — repositório `Borsato21.github.io`
+O site possui uma interface moderna, interativa e responsiva, desenvolvida com foco na experiência do usuário, especialmente em dispositivos móveis.
 
-1. Crie um repositório público chamado `Borsato21.github.io`.
-2. Envie os arquivos deste projeto para a branch `main`.
-3. Vá em **Settings → Pages**.
-4. Em **Build and deployment**, selecione **Deploy from a branch**.
-5. Escolha `main` e a pasta `/ (root)`.
-6. Salve. O endereço esperado será `https://borsato21.github.io/`.
+## ✨ Funcionalidades
 
-### Opção 2 — qualquer repositório
+- 📱 **Design responsivo:** adaptação para celulares, tablets e computadores.
+- 👨‍💻 **Apresentação profissional:** informações sobre minha trajetória e meus objetivos.
+- 🛠️ **Projetos:** espaço para apresentar projetos pessoais e acadêmicos.
+- 📄 **Download do currículo:** acesso rápido ao meu currículo profissional.
+- 🎨 **Interface moderna:** efeitos visuais e interações para melhorar a experiência de navegação.
+- 🍔 **Menu responsivo:** navegação adaptada para dispositivos móveis.
+- ⚡ **Experiência de navegação:** animações e efeitos visuais pensados para manter a interface fluida.
 
-Você também pode usar um repositório como `portfolio`. Nesse caso, o endereço ficará parecido com:
+## 🧰 Tecnologias utilizadas
 
-`https://borsato21.github.io/portfolio/`
+- **HTML5:** estruturação do conteúdo.
+- **CSS3:** estilização, layout responsivo, animações e efeitos visuais.
+- **JavaScript:** interatividade e funcionalidades dinâmicas.
+- **Git e GitHub:** versionamento e gerenciamento do código.
+- **GitHub Pages:** publicação e hospedagem do portfólio.
 
-Como o site usa caminhos relativos para os arquivos locais, ele funciona nas duas opções.
+## 📂 Estrutura do projeto
 
-## Personalização rápida
+A estrutura pode variar conforme a organização atual dos arquivos do repositório. Uma organização típica é:
 
-- Textos: edite `index.html`.
-- Cores: altere as variáveis no começo de `style.css`.
-- Projetos: procure pela seção `id="projetos"` em `index.html`.
-- Contato: procure pela seção `id="contato"`.
+```text
+My-Portfolio/
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+│   ├── images/
+│   └── icons/
+├── documentos/
+│   └── curriculo.pdf
+└── README.md
+```
 
-## Observação de privacidade
+## 💻 Como executar o projeto localmente
 
-O portfólio usa informações profissionais e de contato relevantes, mas não publica telefone nem data de nascimento. Caso queira disponibilizar um currículo em PDF, prefira criar uma versão pública sem dados pessoais desnecessários.
+1. Clone este repositório:
+
+   ```bash
+   git clone https://github.com/Borsato21/My-Portfolio.git
+   ```
+
+2. Acesse a pasta do projeto:
+
+   ```bash
+   cd My-Portfolio
+   ```
+
+3. Abra o arquivo `index.html` no navegador ou utilize a extensão **Live Server** do Visual Studio Code para executar o projeto localmente.
+
+## 🌐 Publicação
+
+O projeto está publicado utilizando o GitHub Pages.
+
+Para acessar a versão online, visite:
+
+🔗 [Meu Portfólio](https://borsato21.github.io/My-Portfolio/)
+
+## 🎯 Objetivos do projeto
+
+- Construir minha presença profissional na área de tecnologia.
+- Aplicar conhecimentos de desenvolvimento web.
+- Praticar HTML, CSS e JavaScript em um projeto real.
+- Desenvolver uma interface acessível e responsiva.
+- Apresentar meus projetos e facilitar oportunidades profissionais.
+
+## 👨‍💻 Autor
+
+**Vítor Borsato**
+
+Estudante e desenvolvedor em constante aprendizado, buscando aprimorar meus conhecimentos em tecnologia e desenvolvimento de software por meio de projetos práticos.
+
+- **GitHub:** [@Borsato21](https://github.com/Borsato21)
+- **Linkdin:** [@Borsato21](https://www.linkedin.com/in/v%C3%ADtor-borsato-096b3126a)
+- **Portfólio:** [Acesse meu site](https://borsato21.github.io/My-Portfolio/)
+
+---
+
+⭐ Se você gostou do projeto, fique à vontade para explorar o repositório e acompanhar minha evolução!
